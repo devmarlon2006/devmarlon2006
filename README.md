@@ -4,3 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=transparent)
 
 ### Tecnologias que eu uso
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,github,notion,&perline=3)](https://skillicons.dev)
