@@ -8,3 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+
