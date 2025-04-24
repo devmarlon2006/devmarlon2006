@@ -3,4 +3,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=transparent)
 
-### Tecnologias
+### Tecnologias que eu uso
