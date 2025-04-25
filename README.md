@@ -12,4 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell&perline=3)](https://skillicons.dev)
 
