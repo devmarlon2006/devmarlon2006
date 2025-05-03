@@ -9,7 +9,7 @@ Atualmente estou cursando engenharia de software, siga-me para visualizar e cont
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/82993634707)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&hide_progress=true&theme=transparent)
 ### My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin&perline=3)](https://skillicons.dev)
