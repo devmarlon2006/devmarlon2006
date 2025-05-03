@@ -13,12 +13,12 @@ Atualmente estou cursando engenharia de software, siga-me para visualizar e cont
 ### Tecnologias que eu uso <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=rider&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=webstorm&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=powershell&perline=3)](https://skillicons.dev)
+
 
