@@ -12,7 +12,7 @@ Atualmente estou cursando engenharia de software, siga-me para visualizar e cont
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&hide_progress=true&theme=transparent)
 ### My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
-
+[![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kotlin&perline=3)](https://skillicons.dev)
