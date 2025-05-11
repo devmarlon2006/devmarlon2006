@@ -15,7 +15,6 @@ Atualmente estou cursando engenharia de software, siga-me para visualizar e cont
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kotlin&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=rider&perline=3)](https://skillicons.dev)
 
