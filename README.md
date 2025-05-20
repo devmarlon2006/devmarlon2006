@@ -1,22 +1,40 @@
-### Olá! Eu sou o Márlon, Bem vindo ao meu perfil no GitHub🧩
+<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
 
-_____________________________________________________________________________________________________________________________________________________________________________________
+<p align="center">
+  Desenvolvedor Full Stack focado em soluções modernas e eficientes com <strong>Java</strong>, <strong>Kotlin</strong> e <strong>C#</strong>. Apaixonado por tecnologia, boas práticas de desenvolvimento e performance!
+</p>
 
-Atualmente estou cursando engenharia de software, siga-me para visualizar e contribuir em meus projetos
+---
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlon.oliveira06/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rlon-oliveira-da-silva-7bb539290/)
-[![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/82993634707)
+### 🛠️ Tecnologias & Ferramentas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&hide_progress=true&theme=transparent)
-### My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="25" height="25" />
-[![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kotlin&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rider&perline=3)](https://skillicons.dev)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Rider"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Entre em contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rlon-oliveira-da-silva-7bb539290/)  
+- 📧 contatomarlon65@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
 
 
-<!--[![My Skills](https://skillicons.dev/icons?i=rust&perline=3)](https://skillicons.dev)-->
