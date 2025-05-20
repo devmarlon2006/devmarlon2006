@@ -35,6 +35,6 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
+⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios.
 
 
