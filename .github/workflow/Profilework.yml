@@ -1,0 +1,27 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite (UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.0 # Use a versão mais recente
+        with:
+          USERNAME: devmarlon2006 # Nome de usuário do GitHub
+          OUTPUT_TYPE: "svg" # Ou "png" se preferir
+          # Você pode adicionar mais opções aqui, como TILE_COLOR, TILE_SHADOW etc.
+          # Consulte a documentação da action para mais detalhes:
+          # https://github.com/yoshi389111/github-profile-3d-contrib
+      - name: Push to README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
+          git push
