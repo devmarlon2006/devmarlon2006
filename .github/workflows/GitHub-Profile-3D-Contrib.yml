@@ -16,7 +16,8 @@ jobs:
         with:
           USERNAME: devmarlon2006
           OUTPUT_TYPE: "svg"
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: GITHUB_TOKEN
       - name: Push to README
         run: |
           git config user.name "github-actions[bot]"
