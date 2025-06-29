@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: GITHUB_TOKEN
+          GITHUB_TOKEN: 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
           USERNAME: devmarlon2006
       - name: Commit & Push
         run: |
