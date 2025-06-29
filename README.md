@@ -18,10 +18,4 @@
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git&perline=4)](https://skillicons.dev)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devmarlon2006}/count.svg" /></p> 
-<br></div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=120&section=footer"/>
