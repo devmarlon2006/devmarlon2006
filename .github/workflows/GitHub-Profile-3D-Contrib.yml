@@ -2,22 +2,21 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@main 
+      - uses: yoshi389111/github-profile-3d-contrib@main
         with:
-          USERNAME: devmarlon2006 
+          USERNAME: devmarlon2006
           OUTPUT_TYPE: "svg"
-        
-
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to README
         run: |
           git config user.name "github-actions[bot]"
