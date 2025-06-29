@@ -2,29 +2,21 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite (UTC)
-  workflow_dispatch: # Permite execução manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     permissions:
-      contents: write # Garante permissão de escrita para o token
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@main # <<< ALTEI AQUI PARA 'main'
+      - uses: yoshi389111/github-profile-3d-contrib@main
         with:
-          USERNAME: devmarlon2006 # Seu nome de usuário do GitHub
-          OUTPUT_TYPE: "svg" # Ou "png" se preferir
-          # TOKEN: ${{ secrets.GITHUB_TOKEN }} # Geralmente não é necessário, mas pode tentar se o erro persistir
-          # TILE_COLOR: "#2b2b2b" # Exemplo de personalização
-          # TILE_SHADOW: "#8a2be2" # Exemplo de personalização
-          # LIGHT_COLOR: "#fff" # Exemplo de personalização
-          # DURATION: "5000" # Duração da animação em milissegundos
-          # BG_COLOR: "#0d1117" # Cor de fundo
-          # etc. Consulte a documentação para mais opções
-
+          USERNAME: devmarlon2006
+          OUTPUT_TYPE: "svg"
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push to README
         run: |
           git config user.name "github-actions[bot]"
