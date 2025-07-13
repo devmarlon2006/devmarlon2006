@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devmarlon2006&bg_color=000000&color=FFFFFF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git&perline=4)](https://skillicons.dev)&nbsp;
 
