@@ -15,7 +15,7 @@
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git&perline=4)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git,gradle,powershell&perline=4)](https://skillicons.dev)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=120&section=footer"/>
