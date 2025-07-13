@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmarlon2006&show_icons=true&theme=dark"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&layout=compact&theme=dark" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarlon2006&layout=donut-vertical&theme=dark" />
 </div>
  
 ### Main skills:
