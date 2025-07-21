@@ -12,5 +12,5 @@
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git,gradle,postman,powershell&perline=8)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git,gradle,powershell&perline=8)](https://skillicons.dev)&nbsp;
 
