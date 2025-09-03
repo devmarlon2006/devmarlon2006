@@ -10,7 +10,7 @@
 </div>
  
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,&theme=dark)](https://skillicons.dev)
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,github,git,gradle,maven,powershell&perline=8)](https://skillicons.dev)&nbsp;
 
